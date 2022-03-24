@@ -440,3 +440,32 @@ $(function() {
 
 });
 
+const farfetchDep=()=>{
+	
+	window.open("https://farfetch.vercel.app/")
+}
+const farfetchGit=()=>{
+	window.open("https://github.com/Abdullah-FSWD/farfetch")
+}
+
+const revvDep=()=>{
+	window.open("https://revvcar-two.vercel.app")
+}
+const revvGit=()=>{
+	window.open("https://github.com/Abdullah-FSWD/revv2.0")
+}
+
+const beardoDep=()=>{
+	window.open("https://beardo-clone.vercel.app/")
+}
+const beardoGit=()=>{
+	window.open("https://github.com/Abdullah-FSWD/beardo_clone")
+}
+
+const walmartDep=()=>{
+	window.open("https://sarath-194.github.io/walmart/body.html")
+}
+const walmartGit=()=>{
+	window.open("https://github.com/Abdullah-FSWD/walmart")
+}
+
