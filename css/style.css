@@ -9779,3 +9779,28 @@ textarea.form-control {
   text-align: center;
   border-bottom: 1px solid gray;
 }
+/* .profile-pic{
+  height:100%;
+} */
+#about-section{
+  margin-top:8%;
+  /* margin-bottom:5%; */
+}
+#three-button{
+  display:flex;
+  gap:2px;
+}
+@media (max-width:301px){
+  #mobile{
+    display:flex;
+    flex-direction:column;
+  }
+  #three-button{
+    display:flex;
+    flex-direction:column;
+
+  }
+}
+  #p-pic{
+    height: 600px;
+  }
