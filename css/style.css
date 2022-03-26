@@ -9788,7 +9788,7 @@ textarea.form-control {
 }
 #three-button{
   display:flex;
-  gap:2px;
+  gap:18px;
 }
 @media (max-width:301px){
   #mobile{
